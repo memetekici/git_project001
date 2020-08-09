@@ -9,6 +9,7 @@ public class FirstClass {
 		System.out.println("I want to have conflict");
 		
 		System.out.println("I want to have a second conflict");
+		System.out.println("bu benim");
 	}
 
 }
